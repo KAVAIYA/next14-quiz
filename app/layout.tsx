@@ -10,8 +10,8 @@ const raleway = Raleway({
 });
 
 export const metadata: Metadata = {
-  title: "CodeQuiz",
-  description: "Weekly quiz question for developers",
+  title: "Gujarat Goverment Exam Quiz Portal ",
+  description: "Quiz Question for Govt Exam Aspirants",
 };
 
 export default function RootLayout({

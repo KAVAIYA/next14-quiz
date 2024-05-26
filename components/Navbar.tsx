@@ -11,10 +11,9 @@ const Navbar = () => {
         <div>
           <Link
             href={"/"}
-            className="flex gap-1 items-center text-2xl"
-          >
+            className="flex gap-1 items-center text-2xl">
             <h1 className="text-dark font-bold">
-              CodeQuiz
+            Gujarat Goverment Exam Portal
             </h1>
             <MdQuiz className="text-primary" />
           </Link>
@@ -22,7 +21,7 @@ const Navbar = () => {
 
         <div className="md:block hidden text-nowrap">
           <span className="bg-primary px-5 py-1 rounded-md text-white">
-            Today's Category: Javascript
+          Gujarat Goverment Exam Portal
           </span>
         </div>
 
